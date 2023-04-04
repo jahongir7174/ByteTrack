@@ -25,5 +25,5 @@ pip install scipy
 
 ### Reference
 
-* https://github.com/jahongir7174/YOLOv8-pt
 * https://github.com/ultralytics/ultralytics
+* https://github.com/jahongir7174/YOLOv8-pt
